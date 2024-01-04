@@ -1,0 +1,216 @@
+LIGHT -14 line 3
+cc--6
+LIGHT -4 line 5
+cc--6
+LIGHT 3 line 7
+cc--6
+ai--12
+LIGHT 3 line 9
+cc--6
+LIGHT 5 line 11
+cc--6
+LIGHT 10 line 13
+cc--6
+UNLIMITED_VOID line 14
+LIGHT -5 line 15
+cc--6
+LIGHT 7 line 17
+cc--6
+LIGHT 8 line 19
+cc--6
+LIGHT 10 line 21
+cc--6
+LIGHT -13 line 23
+cc--6
+UNLIMITED_VOID line 24
+LIGHT -5 line 25
+cc--6
+LIGHT 17 line 27
+cc--6
+LIGHT 17 line 29
+cc--6
+LIGHT 15 line 31
+cc--6
+LIGHT 0 line 33
+ai--12
+UNLIMITED_VOID line 34
+LIGHT 18 line 35
+cc--6
+LIGHT -11 line 37
+cc--6
+LIGHT 14 line 39
+cc--6
+LIGHT -3 line 41
+cc--6
+LIGHT -3 line 43
+cc--6
+LIGHT 5 line 45
+cc--6
+UNLIMITED_VOID line 46
+LIGHT -14 line 47
+cc--6
+LIGHT -1 line 49
+cc--6
+LIGHT -1 line 51
+cc--6
+LIGHT 17 line 53
+ai--12
+LIGHT 8 line 55
+ai--12
+LIGHT 0 line 57
+LIGHT -7 line 59
+qb--2
+LIGHT -10 line 61
+qb--2
+LIGHT -3 line 63
+ik-6
+LIGHT -6 line 65
+ik-6
+LIGHT 13 line 67
+ik-6
+LIGHT -9 line 69
+ik-6
+LIGHT -12 line 71
+ik-6
+LIGHT -13 line 73
+wp--9
+LIGHT 13 line 75
+wp--9
+LIGHT 3 line 77
+wp--9
+LIGHT 14 line 79
+wp--9
+DOMAIN_EXPANSION line 80
+LIGHT 7 line 81
+wp--9
+LIGHT 7 line 83
+wp--9
+UNLIMITED_VOID line 84
+LIGHT -13 line 85
+wp--9
+LIGHT -16 line 87
+wp--9
+LIGHT 1 line 89
+wp--9
+DOMAIN_EXPANSION line 90
+LIGHT 8 line 91
+wp--9
+LIGHT 0 line 93
+LIGHT 1 line 95
+xr-12
+oq-6
+LIGHT -10 line 97
+xr-12
+LIGHT 16 line 99
+xr-12
+LIGHT 2 line 101
+xr-12
+LIGHT 0 line 103
+oq-6
+LIGHT -7 line 105
+xr-12
+LIGHT 11 line 107
+xr-12
+oq-6
+LIGHT -6 line 109
+xr-12
+LIGHT 16 line 111
+xr-12
+LIGHT -11 line 113
+xr-12
+LIGHT -13 line 115
+xr-12
+LIGHT -14 line 117
+xr-12
+LIGHT 0 line 119
+oq-6
+LIGHT 5 line 121
+oq-6
+LIGHT -7 line 123
+oq-6
+LIGHT -10 line 125
+oq-6
+LIGHT -16 line 127
+oq-6
+DOMAIN_EXPANSION line 128
+LIGHT -3 line 129
+oq-6
+DOMAIN_EXPANSION line 130
+LIGHT 18 line 131
+oq-6
+zf-12
+LIGHT 15 line 133
+oq-6
+LIGHT -18 line 135
+oq-6
+LIGHT -5 line 137
+oq-6
+LIGHT -18 line 139
+oq-6
+LIGHT -16 line 141
+oq-6
+LIGHT 4 line 143
+oq-6
+DOMAIN_EXPANSION line 144
+LIGHT -10 line 145
+oq-6
+DOMAIN_EXPANSION line 146
+LIGHT 5 line 147
+oq-6
+LIGHT 18 line 149
+oq-6
+LIGHT 12 line 151
+oq-6
+LIGHT -5 line 153
+oq-6
+UNLIMITED_VOID line 154
+LIGHT -20 line 155
+oq-6
+LIGHT -19 line 157
+oq-6
+LIGHT 17 line 159
+oq-6
+UNLIMITED_VOID line 160
+LIGHT 0 line 161
+zf-12
+LIGHT 15 line 163
+oq-6
+LIGHT 5 line 165
+zf-12
+LIGHT -2 line 167
+LIGHT -12 line 169
+LIGHT 11 line 171
+qw--3
+LIGHT 16 line 173
+qw--3
+LIGHT -2 line 175
+qw--3
+ex-4
+LIGHT -2 line 177
+qw--3
+LIGHT 4 line 179
+qw--3
+UNLIMITED_VOID line 180
+LIGHT 18 line 181
+qw--3
+ex-4
+LIGHT -15 line 183
+qw--3
+LIGHT 0 line 185
+ex-4
+ex-4
+LIGHT 10 line 187
+qw--3
+LIGHT 16 line 189
+qw--3
+LIGHT 9 line 191
+qw--3
+DOMAIN_EXPANSION line 192
+LIGHT -20 line 193
+qw--3
+LIGHT -8 line 195
+qw--3
+LIGHT 8 line 197
+qw--3
+LIGHT -7 line 199
+qw--3
